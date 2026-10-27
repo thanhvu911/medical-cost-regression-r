@@ -22,22 +22,24 @@ Linear regression · model comparison · statistical inference · ggplot2 · rep
 
 ## Gallery
 
-**Data flow**
+_Diagrams are editable in draw.io: [`docs/diagrams/`](docs/diagrams)._
 
-![Data flow](assets/dataflow.png)
+**Analysis workflow in R**
 
-**Insight: summary**
+![Analysis workflow in R](assets/dataflow.png)
 
-![Insight: summary](assets/insight-summary.png)
+**Results summary**
 
-**Code: nested models**
+![Results summary](assets/insight-summary.png)
 
-![Code: nested models](assets/code-nested-models.png)
+**The five nested models**
 
-**Report page: page 2**
+![The five nested models](assets/code-nested-models.png)
 
-![Report page: page 2](assets/report-page-2.png)
+**Report excerpt (page 2)**
 
-**Report page: page 3**
+![Report excerpt (page 2)](assets/report-page-2.png)
 
-![Report page: page 3](assets/report-page-3.png)
+**Report excerpt (page 3)**
+
+![Report excerpt (page 3)](assets/report-page-3.png)
